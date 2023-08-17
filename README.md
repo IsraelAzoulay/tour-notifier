@@ -7,10 +7,7 @@ The script will continually check the specified webpage for new events every 2 s
 2. Install the necessary packages:
    pip install -r requirements.txt
 3. Set up your `.env` file with your Gmail credentials and the receiver's email:
-   
-  SENDER_EMAIL=your_email@gmail.com
-  SENDER_PASSWORD=your_app_password
-  RECEIVER_EMAIL=receiver_email@gmail.com
+  SENDER_EMAIL=your_email@gmail.com, SENDER_PASSWORD=your_app_password, RECEIVER_EMAIL=receiver_email@gmail.com
 
 ## Usage
 Run the script:
