@@ -1,5 +1,5 @@
 # Tour Notifier
-A simple program to scrape and monitor a webpage for new tour events and send email notifications when new events are found.
+A program to scrape and monitor a webpage for new tour events and send email notifications when new events are found.
 The script will continually check the specified webpage for new events every 2 seconds and send an email notification if a new event is found.
 
 ## Setup
